@@ -13,14 +13,14 @@ PC: 4000
 ## Actividad 2: Tres píxeles debajo de 3 letras
 Los píxeles deben ser de 3 colores distintos y no estar en la primera fila de pantalla.
 ```
-21 43 77 22 00 C8 18 FE
+21 43 77 22 00 C8 18 FE CAMBIAR
 ```
 PC: 4000
 
 ## Actividad 3: Columna de 5 píxeles consecutivos
 Los píxeles deben formar un dibujito en vertical, en la misma columna.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 00 C5 3E 80 32 B0 FC 3E 08 32 B0 F4 3E 80 32 B0 EC 3E 08 32 B0 E4 3E 88 32 B0 DC 18 FE
 ```
 PC: 4000
 
@@ -34,6 +34,6 @@ PC: 4000
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí. <br>
 ![Actividad 1](/C1F6.png)
-![Actividad 2](/tuimagen2.png)
-![Actividad 3](/tuimagen3.png)
+![Actividad 2](/3puntos.png)
+![Actividad 3](/5columna.png)
 ![Actividad 4](/tuimagen4.png)
