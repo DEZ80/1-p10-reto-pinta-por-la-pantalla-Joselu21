@@ -6,7 +6,7 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 ## Actividad 1: Píxel entre letras
 El píxel debe estar fuera de la primera fila de pantalla.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 F6 C1 18 FE
 ```
 PC: 4000
 
@@ -32,8 +32,8 @@ Mínimo 4 filas de altura y 3 columnas distintas.
 PC: 4000
 
 # IMAGENES
-Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1](/tuimagen1.png)
+Si quieres, puedes subir pantallazos y enlazarlos aquí. <br>
+![Actividad 1](/C1F6.png)
 ![Actividad 2](/tuimagen2.png)
 ![Actividad 3](/tuimagen3.png)
 ![Actividad 4](/tuimagen4.png)
